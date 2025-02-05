@@ -1,6 +1,6 @@
 # Pateint readmission prediction using logistic regression
 
-This project was created to test my skills in machine learning and data analysis using a self created small data. It predicts whether a patient will be readmitted to the hospital based on features like age, BMI, blood pressure, and medical history. It uses logistic regression which is used for binary classification, and the model's performance is evaluated using accuracy and a classification report.
+This project was created to test my skills in machine learning and data analysis using a self created small data :). It's a simple project that predicts whether a patient will be readmitted to the hospital based on features like age, BMI, blood pressure, and medical history. It uses logistic regression which is used for binary classification, and the model's performance is evaluated using accuracy and a classification report.
 
 ## Table of Contents
 1. [Introduction](#introduction)
